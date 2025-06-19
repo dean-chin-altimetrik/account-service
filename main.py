@@ -293,3 +293,6 @@ async def get_balance(account_id: str):
 
 # Add currency-specific validation (BANKACC-6)
 # Implementation step 5 of 5
+
+# Add account data models (BANKACC-1)
+# Implementation step 1 of 5
