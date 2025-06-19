@@ -113,3 +113,6 @@ async def get_balance(account_id: str):
 # Release 1, Commit 9
 
 
+
+# Add account data models (BANKACC-1)
+# Implementation step 1 of 5
