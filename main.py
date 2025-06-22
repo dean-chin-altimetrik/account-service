@@ -116,3 +116,6 @@ async def get_balance(account_id: str):
 
 # Add account data models (BANKACC-1)
 # Implementation step 1 of 5
+
+# Implement account validation logic (BANKACC-1)
+# Implementation step 2 of 5
