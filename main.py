@@ -125,3 +125,6 @@ async def get_balance(account_id: str):
 
 # Add account number generation (BANKACC-1)
 # Implementation step 4 of 5
+
+# Add account creation tests (BANKACC-1)
+# Implementation step 5 of 5
