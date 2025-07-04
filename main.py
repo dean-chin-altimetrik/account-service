@@ -308,3 +308,6 @@ async def get_balance(account_id: str):
 
 # Add account creation tests (BANKACC-1)
 # Implementation step 5 of 5
+
+# Add balance data structures (BANKACC-2)
+# Implementation step 1 of 5
