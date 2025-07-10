@@ -314,3 +314,6 @@ async def get_balance(account_id: str):
 
 # Implement balance calculation logic (BANKACC-2)
 # Implementation step 2 of 5
+
+# Add balance update mechanisms (BANKACC-2)
+# Implementation step 3 of 5
