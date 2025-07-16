@@ -320,3 +320,6 @@ async def get_balance(account_id: str):
 
 # Add balance history tracking (BANKACC-2)
 # Implementation step 4 of 5
+
+# Add balance validation rules (BANKACC-2)
+# Implementation step 5 of 5
