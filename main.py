@@ -323,3 +323,6 @@ async def get_balance(account_id: str):
 
 # Add balance validation rules (BANKACC-2)
 # Implementation step 5 of 5
+
+# Add verification workflow engine (BANKACC-3)
+# Implementation step 1 of 5
