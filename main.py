@@ -146,3 +146,6 @@ async def get_balance(account_id: str):
 
 # Add verification workflow engine (BANKACC-3)
 # Implementation step 1 of 5
+
+# Implement identity verification checks (BANKACC-3)
+# Implementation step 2 of 5
