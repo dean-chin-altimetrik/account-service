@@ -329,3 +329,6 @@ async def get_balance(account_id: str):
 
 # Implement identity verification checks (BANKACC-3)
 # Implementation step 2 of 5
+
+# Add document upload handling (BANKACC-3)
+# Implementation step 3 of 5
