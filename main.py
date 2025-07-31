@@ -155,3 +155,6 @@ async def get_balance(account_id: str):
 
 # Add verification status tracking (BANKACC-3)
 # Implementation step 4 of 5
+
+# Add verification notification system (BANKACC-3)
+# Implementation step 5 of 5
