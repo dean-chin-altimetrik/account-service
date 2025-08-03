@@ -158,3 +158,6 @@ async def get_balance(account_id: str):
 
 # Add verification notification system (BANKACC-3)
 # Implementation step 5 of 5
+
+# Add account status enumeration (BANKACC-4)
+# Implementation step 1 of 5
