@@ -164,3 +164,6 @@ async def get_balance(account_id: str):
 
 # Implement status transition logic (BANKACC-4)
 # Implementation step 2 of 5
+
+# Add status change validation (BANKACC-4)
+# Implementation step 3 of 5
