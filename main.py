@@ -353,3 +353,6 @@ async def get_balance(account_id: str):
 
 # Add status-based access control (BANKACC-4)
 # Implementation step 5 of 5
+
+# Add activity logging framework (BANKACC-5)
+# Implementation step 1 of 5
