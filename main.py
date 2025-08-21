@@ -356,3 +356,6 @@ async def get_balance(account_id: str):
 
 # Add activity logging framework (BANKACC-5)
 # Implementation step 1 of 5
+
+# Implement activity event capture (BANKACC-5)
+# Implementation step 2 of 5
