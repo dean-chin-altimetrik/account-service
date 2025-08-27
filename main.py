@@ -362,3 +362,6 @@ async def get_balance(account_id: str):
 
 # Add activity data storage (BANKACC-5)
 # Implementation step 3 of 5
+
+# Add activity query endpoints (BANKACC-5)
+# Implementation step 4 of 5
