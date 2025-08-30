@@ -185,3 +185,6 @@ async def get_balance(account_id: str):
 
 # Add activity query endpoints (BANKACC-5)
 # Implementation step 4 of 5
+
+# Add activity filtering and search (BANKACC-5)
+# Implementation step 5 of 5
