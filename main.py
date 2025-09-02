@@ -188,3 +188,6 @@ async def get_balance(account_id: str):
 
 # Add activity filtering and search (BANKACC-5)
 # Implementation step 5 of 5
+
+# Add currency data models (BANKACC-6)
+# Implementation step 1 of 5
