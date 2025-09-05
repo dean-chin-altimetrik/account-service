@@ -371,3 +371,6 @@ async def get_balance(account_id: str):
 
 # Add currency data models (BANKACC-6)
 # Implementation step 1 of 5
+
+# Implement currency conversion logic (BANKACC-6)
+# Implementation step 2 of 5
