@@ -194,3 +194,6 @@ async def get_balance(account_id: str):
 
 # Implement currency conversion logic (BANKACC-6)
 # Implementation step 2 of 5
+
+# Add multi-currency balance tracking (BANKACC-6)
+# Implementation step 3 of 5
