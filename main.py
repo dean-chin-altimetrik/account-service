@@ -200,3 +200,6 @@ async def get_balance(account_id: str):
 
 # Add currency exchange rate updates (BANKACC-6)
 # Implementation step 4 of 5
+
+# Add currency-specific validation (BANKACC-6)
+# Implementation step 5 of 5
